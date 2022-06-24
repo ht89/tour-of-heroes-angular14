@@ -26,6 +26,11 @@
     width: 100%;
 
     &:hover {
+      background-color: #e6e6e6;
+      color: #2c3a41;
+    }
+
+    &.active {
       background-color: #525252;
       color: #fafafa;
     }
